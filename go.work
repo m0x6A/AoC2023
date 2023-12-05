@@ -2,7 +2,6 @@ go 1.21.4
 
 use (
 	./day1
-	./day3
 	./filereader
 	./startup
 )
